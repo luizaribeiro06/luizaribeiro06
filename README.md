@@ -33,7 +33,9 @@
 
 ## 
 
-<div>
-<a href="luizasaracol@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <div>
+        <a href="luizasaracol@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+        <a href="https://wa.me/qr/VCBYI7TPZJS5P1"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+        <a href="www.linkedin.com/in/ribeiro-luiza06"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-</div>
+  </div>
