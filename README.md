@@ -34,6 +34,6 @@
 ## 
 
 <div>
-<a href="luizasaracol@gmail.com"> <img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt=""](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)> </a>
+<a href="luizasaracol@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 </div>
