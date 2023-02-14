@@ -4,11 +4,10 @@
 - 🖥️ Estudando Front-End e Back-end, além de outras linguagens e programas de softwares.
 - 📧 Contate-me no email: luizasaracol@gmail.com
 
-        <div>
+<div align="center">
         <a href="https://github.com/luizaribeiro06"></a>
         <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luizaribeiro06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaribeiro06&layout=compact&langs_count=16&theme=dracula" alt="">
-    </div>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaribeiro06&layout=compact&langs_count=16&theme=dracula" alt=""></div>
     
   <div style="display: inline_block"><br>
         <img align="center" alt="Luiza-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
