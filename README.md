@@ -9,7 +9,7 @@
         <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luizaribeiro06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
         <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaribeiro06&layout=compact&langs_count=16&theme=dracula" alt=""></div>
     
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
         <img align="center" alt="Luiza-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="Luiza-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="Luiza-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
