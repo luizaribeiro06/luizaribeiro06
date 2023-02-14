@@ -7,12 +7,12 @@
 
 <div align="center">
         <a href="https://github.com/luizaribeiro06/luizaribeiro06/blob/c46e2cbbef7add7b80dd6010664ca484337df927/Curr%C3%ADculo%20-%20Luiza.pdf">Currículo</a>
-</div>
+</div><br>
 
 <div align="center">
         <a href="https://github.com/luizaribeiro06"></a>
         <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luizaribeiro06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaribeiro06&layout=compact&langs_count=16&theme=dracula" alt=""></div>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaribeiro06&layout=compact&langs_count=16&theme=dracula" alt=""></div><br>
     
   <div style="display: inline_block" align="center"><br>
         <img align="center" alt="Luiza-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
