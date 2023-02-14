@@ -6,7 +6,7 @@
 - 🖥️ Estudando Front-End e Back-end, além de outras linguagens e programas de softwares.
 
 <div align="center">
-        <a href="">
+        <a href="https://github.com/luizaribeiro06/luizaribeiro06/blob/c46e2cbbef7add7b80dd6010664ca484337df927/Curr%C3%ADculo%20-%20Luiza.pdf">
 </div>
 
 <div align="center">
