@@ -6,7 +6,8 @@
 - 🖥️ Atualmente, sou Dev Junior, trabalhando com o Astro (site estático), React e JS.
 
 <div align="center">
-        <a href="[CV.pdf](https://github.com/user-attachments/files/21623170/CV.pdf)">Currículo</a>
+        <a href="">Currículo</a>[
+        [CV.pdf](https://github.com/user-attachments/files/21623170/CV.pdf)
 </div><br>
 
 <div align="center">
