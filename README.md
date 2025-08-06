@@ -6,7 +6,7 @@
 - 🖥️ Atualmente, sou Dev Junior, trabalhando com o Astro (site estático), React e JS.
 
 <div align="center">
-        <a href="https://github.com/luizaribeiro06/luizaribeiro06/blob/c46e2cbbef7add7b80dd6010664ca484337df927/Curr%C3%ADculo%20-%20Luiza.pdf">Currículo</a>
+        <a href="[CV.pdf](https://github.com/user-attachments/files/21623170/CV.pdf)">Currículo</a>
 </div><br>
 
 <div align="center">
